@@ -98,11 +98,11 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include button.html text="A button" link="https://david.darn.es" %}
 
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
+{% include button.html text="A button with icon" link="https://twitter.com/MiladJalaliA" icon="twitter" %}
 
 ``` html
 {% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
+{% include button.html text="A button with icon" link="https://twitter.com/MiladJalaliA" icon="twitter" %}{% endraw %}
 ```
 
 ### Icon include
