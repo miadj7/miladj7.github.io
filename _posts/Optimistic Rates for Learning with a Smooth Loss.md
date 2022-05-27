@@ -1,7 +1,7 @@
 ---
 title: Optimistic Rates for Learning with a Smooth Loss
 categories:
-- Learning Theory, High Dimmensional Statistics
+- Learning Theory
 feature_text: |
   Optimistic Rates for Learning with a Smooth Loss
 ---
