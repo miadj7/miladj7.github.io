@@ -9,7 +9,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 I am a second year Master student in the  [Department of Computer Science](https://www.cs.ubc.ca/) at [UBC](https://www.ubc.ca/). I am very fortunate to be advised by [Danica Sutherland](https://djsutherland.ml/).
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/miladj7" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/MiladJalaliA" color="#0d94e7" %}
+{% include button.html text="Github" icon="github" link="https://github.com/miladj7" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/MiladJalaliA" color="#0d94e7" %} {% include button.html text="google scholar" icon="google scholar" link="https://github.com/miladj7" color="#4285F4" %}
 
 ## Teaching
 
