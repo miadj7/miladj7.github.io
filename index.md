@@ -29,11 +29,15 @@ I am currently primarily interested in Statistical Learning Theory, Optimization
 ## Papers
 
 ### Conference and Workshop Papers
-- [One Weird Trick to Improve Your Semi-Weakly Supervised Semantic Segmentation Model](https://arxiv.org/pdf/2205.01233.pdf)
+- [One Weird Trick to Improve Your Semi-Weakly Supervised Semantic Segmentation Model](https://arxiv.org/pdf/2205.01233.pdf).  <br />
+Wonho Bae, Jyunhug Noh, Milad Jalali Asadabadi, and Danica J. Sutherland.  <br />
+International Joint Conference on Artificial Intelligence (IJCAI) 2022.
 
 ### Preprints
-- [Differentially Private Data Generation Needs Better Features](https://arxiv.org/pdf/2205.12900.pdf)
-- [Adaptive Online Learning for Gradient-Based Optimizers](https://arxiv.org/pdf/1906.00290.pdf)
+- [Differentially Private Data Generation Needs Better Features](https://arxiv.org/pdf/2205.12900.pdf). <br />
+Frederik Harder, Milad Jalali Asadabadi, Danica J. Sutherland, and Mijung Park.
+- [Adaptive Online Learning for Gradient-Based Optimizers](https://arxiv.org/pdf/1906.00290.pdf). <br />
+Saeed Masoudian, Ali Arabzadeh, Mahdi Jafari Siavoshani, Milad Jalali Asadabadi, Alireza Amouzad
 
 
 ## Other Interests & Activities
