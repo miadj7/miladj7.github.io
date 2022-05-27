@@ -1,8 +1,8 @@
 ---
 title: About
 feature_text: |
-  <span style="color:white”> ## Milad Jalali Asadabadi </span>
-  <span style="color:white”> All we have to decide is what to do with the time that is given us. </span>
+  ## Milad Jalali Asadabadi
+  All we have to decide is what to do with the time that is given us.
 feature_image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wright_of_Derby%2C_The_Orrery.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
