@@ -42,11 +42,12 @@ Saeed Masoudian, Ali Arabzadeh, Mahdi Jafari Siavoshani, Milad Jalali Asadabadi,
 
 ## Other Interests & Activities
 - Intellectual
-  - Litreature
-  - Philosophy
-  - Psychology
+  - Litreature (Dostoevsky, Bulgakov, Tolkein)
+  - Philosophy (Nietzche, Russell, Schopenhauer)
+  - Psychology (Freud, Jung, Piaget, Yalom)
+  - History
 - Art
-  - Neclassical and surreal Paintings
+  - Neoclassical and surreal Paintings
   - Indie movies
   - Theatre
   - Jazz/Alt Rock/ Folk Rock/ Classical/ Symphonic Metal 
