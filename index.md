@@ -28,12 +28,13 @@ I am currently primarily interested in Statistical Learning Theory, Optimization
 
 ## Papers
 
-### Preprints
-
 ### Conference and Workshop Papers
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- [One Weird Trick to Improve Your Semi-Weakly Supervised Semantic Segmentation Model](https://arxiv.org/pdf/2205.01233.pdf)
+
+### Preprints
+- [Differentially Private Data Generation Needs Better Features](https://arxiv.org/pdf/2205.12900.pdf)
+- [Adaptive Online Learning for Gradient-Based Optimizers](https://arxiv.org/pdf/1906.00290.pdf)
+
 
 ## Other Interests & Activities
 - Intellectual
