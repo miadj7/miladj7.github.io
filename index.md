@@ -3,7 +3,7 @@ title: About
 feature_text: |
   ## Milad Jalali Asadabadi
   All we have to decide is what to do with the time that is given us.
-feature_image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wright_of_Derby%2C_The_Orrery.jpg"
+feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
@@ -11,7 +11,7 @@ I am a second year Master student in the  [Department of Computer Science](https
 
 As an Undergrad at the [Sharif University of Technology](https://en.sharif.edu/), I worked on designing adaptive online optimization algorithms using bandit algorithms.
 
-I am currently primarily interested in Statistical Learning Theory, Optimization, Differential Privacy, and Online Learning. My research is focused on improving the power of two sample testing methods using selective inference ideas and exploring the potential of kernel methods in differentially private Data generation.
+I am currently primarily interested in Statistical Learning Theory, Optimization, Differential Privacy and Online Learning. My research is focused on improving the power of two sample testing methods using selective inference ideas and exploring the potential of kernel methods in differentially private Data generation.
 
 {% include button.html text="Github" icon="github" link="https://github.com/miladj7" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/MiladJalaliA" color="#0d94e7" %} {% include button.html text="google scholar" icon="google scholar" link="https://scholar.google.nl/citations?user=d_8muq8AAAAJ&hl=en" color="#4285F4" %}
 
