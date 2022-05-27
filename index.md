@@ -13,7 +13,7 @@ As an Undergrad at the [Sharif University of Technology](https://en.sharif.edu/)
 
 I am currently primarily interested in Statistical Learning Theory, Optimization, Differential Privacy, and Online Learning. My research is focused on improving the power of two sample testing methods using selective inference ideas and exploring the potential of kernel methods in differentially private Data generation.
 
-{% include button.html text="Github" icon="github" link="https://github.com/miladj7" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/MiladJalaliA" color="#0d94e7" %} {% include button.html text="google scholar" icon="google scholar" link="https://github.com/miladj7" color="#4285F4" %}
+{% include button.html text="Github" icon="github" link="https://github.com/miladj7" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/MiladJalaliA" color="#0d94e7" %} {% include button.html text="google scholar" icon="google scholar" link="https://scholar.google.nl/citations?user=d_8muq8AAAAJ&hl=en" color="#4285F4" %}
 
 ## Teaching
 
